@@ -1,8 +1,8 @@
 var animal = 'dog'
 
-function myAnimal() 
+function shout (myAnimal) 
 {
-  return animal
+  return string.upperCase(animal)
 }
 
 function yourAnimal() {
